@@ -9,12 +9,6 @@
 - Specjalizacja: Zarządzanie Marketingowe
 - Poziom wykształcenia: magister
 
-# Umiejętności 
-
--
--
-- 
-
 # Linki do opisów błędów
 1. https://docs.google.com/spreadsheets/d/1xfHVBRiLzmQinsUmiH7NZbnWiTv3I8OgGw-Ozt3kgNk/edit?usp=share_link
 
@@ -42,13 +36,15 @@
 
 - Google ads
 - Facebook ads
-- Canva
+- Canva creator
+- Facebook Business Manage
 
 
 # Umiejętności miękkie
 
 - Łatwość nawiązywania kontaktów z ludzmi 
 - Umiejętność dopasowania się energią do rozmówcy
+- Cechy lidera 
 
 
 # Linkedin 
@@ -59,6 +55,7 @@ link: https://www.linkedin.com/in/adrian-pachowski-34a550260
 
 - Dare IT Challanges  Zostań Testerem Manualnym
 - Udemy  Java od Podstaw 
+- Santander Universidades Zwycięzca Konkursu Santander Universidades Najlepszy pomysł na start-up
 
 
 
