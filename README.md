@@ -40,6 +40,11 @@
 
 # Umiejętności techniczne
 
+- Google ads
+- Facebook ads
+- Canva
+
+
 # Umiejętności miękkie
 
 - Łatwość nawiązywania kontaktów z ludzmi 
@@ -52,8 +57,8 @@ link: https://www.linkedin.com/in/adrian-pachowski-34a550260
 
 # Szkolenia
 
-- Dare IT Challanges - Zostań Testerem Manualnym
-- Java od Podstaw - Udemy 
+- Dare IT Challanges  Zostań Testerem Manualnym
+- Udemy  Java od Podstaw 
 
 
 
