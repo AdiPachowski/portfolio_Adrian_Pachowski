@@ -17,7 +17,7 @@
 
 # Linki do opisów błędów
 1. https://docs.google.com/spreadsheets/d/1xfHVBRiLzmQinsUmiH7NZbnWiTv3I8OgGw-Ozt3kgNk/edit?usp=share_link
-2. 
+
 # Linki do raportów
 
 1. https://docs.google.com/document/d/112nsbhbgzOQ68pWhWUxEaO1OCT4Kgdoz/edit?usp=share_link&ouid=112627790576111937822&rtpof=true&sd=true
