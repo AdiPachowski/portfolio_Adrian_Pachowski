@@ -44,7 +44,7 @@
 
 # Linkedin 
 
-link: 
+link: https://www.linkedin.com/in/adrian-pachowski-34a550260
 
 # Szkolenia
 
